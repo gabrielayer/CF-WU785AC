@@ -17,7 +17,7 @@ Vários recursos adicionais, incluindo WPA3, também são suportados.
 
 ### Informações do Driver
 
-- Para usuários de Linux que gostam de trabalhar no código do driver, aqui está o local do driver MT76 no repositório do kernel do Linux:
+- Para usuários de Linux que gostam de trabalhar no código do driver: (Repositório Oficial):
 [MT76](https://github.com/torvalds/linux/tree/master/drivers/net/wireless/mediatek/mt76)
 
 - Se você deseja relatar um bug ou enviar uma correção:
