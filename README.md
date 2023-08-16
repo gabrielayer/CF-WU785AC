@@ -22,10 +22,8 @@ Vários recursos adicionais, incluindo WPA3, também são suportados.
 
 - Para usuários de Linux que gostam de trabalhar no código do driver: (Repositório Oficial):
 [MT76](https://github.com/torvalds/linux/tree/master/drivers/net/wireless/mediatek/mt76)
-
 - Se você deseja relatar um bug ou enviar uma correção:
 [Reporting bugs and submitting fixes](https://wireless.wiki.kernel.org/en/users/documentation/reporting_bugs)
-
 - Se você quiser ver o site da equipe Linux Wireless Mediatek:
 [Linux Wireless Mediatek](https://wireless.wiki.kernel.org/en/users/drivers/mediatek)
 
