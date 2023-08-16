@@ -1,7 +1,7 @@
 # COMFAST CF-WU785AC - USB Wireless Adapter
 
 
-![alt text](https://cdn.discordapp.com/attachments/1118288154479304734/1141495623082844342/router.png)
+![alt text](https://cdn.discordapp.com/attachments/1118288154479304734/1141498285647994960/router2.png)
 
 
 ### Compatibilidade
