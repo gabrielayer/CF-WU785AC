@@ -8,7 +8,7 @@ A série MT76 de drivers suporta **MODO GERENCIADO**, **MODO MESTRE** e **MODO M
 Vários recursos adicionais, incluindo WPA3, também são suportados.
 
 ##### Informação de Dispositivo
-- **Fabricante**: MediaTek Inc. Vendor (0e8d)
+- **Fabricante**: MediaTek Inc. (Vendor: 0e8d)
 - **Modelo do Produto**: CF-WU785AC
 - **ID do Produto**: ProdID (7612)
 - **Modelo do Chipset**:  MT7612U
