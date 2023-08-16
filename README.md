@@ -1,14 +1,32 @@
 # CF-WU785AC
-##### COMFAST CF-WU785AC USB Wireless Adapter Kali Linux Compatibilty
-USB WiFi adapters based on the mt7612u chipset have been supported in-kernel since Linux kernel v4.19 (2018), therefore, there is no need to install a driver if using a modern release of Ubuntu, Raspberry Pi OS, Linux Mint, Kali, Fedora or Manjaro. (and others)
+##### COMFAST CF-WU785AC USB Wireless Adapter - Compatibilidade (PT-BR)
 
-The MT76 series of drivers support **managed mode**, **master mode** and **monitor modes** in accordance with current Linux Wireless standards. Numerous additional capabilities, including WPA3, are supported as well.
+Adaptadores USB WiFi baseados no chipset mt7612u são suportados no kernel desde o kernel Linux v4.19 (2018).
+Não há necessidade de instalar um driver se estiver usando uma versão moderna do Ubuntu, Raspberry Pi OS, Linux Mint, Kali, Fedora ou Manjaro. (e outros)
 
-##### Device Information
-- **Manufacturer**: MediaTek Inc. Vendor (0e8d)
-- **Product Model**: CF-WU785AC
-- **PRODUCT ID**: ProdID (7612)
-- **CHIPSET MODEL**:  MT7612U [@morrownr/7612u](https://github.com/morrownr/7612u)
+A série MT76 de drivers suporta **MODO GERENCIADO**, **MODO MESTRE** e **MODO MONITOR** de acordo com os padrões atuais do Linux Wireless. 
+Vários recursos adicionais, incluindo WPA3, também são suportados.
+
+##### Informação de Dispositivo
+- **Fabricante**: MediaTek Inc. Vendor (0e8d)
+- **Modelo do Produto**: CF-WU785AC
+- **ID do Produto**: ProdID (7612)
+- **Modelo do Chipset**:  MT7612U
+
+-----
+
+### Informações do Driver
+
+Para usuários de Linux que gostam de trabalhar no código do driver, aqui está o local do driver MT76 no repositório do kernel do Linux:
+[MT76](https://github.com/torvalds/linux/tree/master/drivers/net/wireless/mediatek/mt76)
+
+Se você deseja relatar um bug ou enviar uma correção:
+[Reporting bugs and submitting fixes](https://wireless.wiki.kernel.org/en/users/documentation/reporting_bugs)
+
+Se você quiser ver o site da equipe Linux Wireless Mediatek:
+[Linux Wireless Mediatek](https://wireless.wiki.kernel.org/en/users/drivers/mediatek)
+
+-----
 
 
 ```
