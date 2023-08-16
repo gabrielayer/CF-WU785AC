@@ -1,7 +1,7 @@
 # COMFAST CF-WU785AC - USB Wireless Adapter
 
 
-![alt text]([http://url/to/img.png](https://i5.walmartimages.com.mx/mg/gm/3pp/asr/ac05a979-198d-41a2-bbe9-c6d2db7fdc7c.e713e29d14d6cffc2cdd81a625b70233.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff))
+![alt text](https://i5.walmartimages.com.mx/mg/gm/3pp/asr/2ea717f4-683f-4050-88be-dc84c7e41f97.e956d13dddadea4ee642daea166c2586.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF)
 
 
 ### Compatibilidade
