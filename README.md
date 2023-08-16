@@ -8,10 +8,8 @@ The MT76 series of drivers support **managed mode**, **master mode** and **monit
 - **Manufacturer**: MediaTek Inc. Vendor (0e8d)
 - **Product Model**: CF-WU785AC
 - **PRODUCT ID**: ProdID (7612)
-- **CHIPSET MODEL**:  MT7612U 
+- **CHIPSET MODEL**:  MT7612U [@morrownr/7612u](https://github.com/morrownr/7612u)
 
-##### VMware Workstation
-Go to Virtual Machine Settings > USB Controller > USB Compatibilty > USB 3.1
 
 ```
 COMFAST CF-WU785AC Technical Information
