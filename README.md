@@ -1,11 +1,14 @@
 # CF-WU785AC
-##### COMFAST CF-WU785AC USB Wireless Adapter - Compatibilidade (PT-BR)
+
+### COMFAST CF-WU785AC USB Wireless Adapter - Compatibilidade (PT-BR)
 
 Adaptadores USB WiFi baseados no chipset **MT7612U** são suportados no kernel desde o kernel Linux v4.19 (2018).
 Não há necessidade de instalar um driver se estiver usando uma versão moderna do Ubuntu, Raspberry Pi OS, Linux Mint, Kali, Fedora ou Manjaro. (e outros)
 
 A série MT76 de drivers suporta **MODO GERENCIADO**, **MODO MESTRE** e **MODO MONITOR** de acordo com os padrões atuais do Linux Wireless. 
 Vários recursos adicionais, incluindo WPA3, também são suportados.
+
+-----
 
 ### Informação de Dispositivo
 - **Fabricante**: MediaTek Inc. (Vendor: 0e8d)
