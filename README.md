@@ -1,5 +1,9 @@
 # COMFAST CF-WU785AC - USB Wireless Adapter
 
+
+![alt text]([http://url/to/img.png](https://i5.walmartimages.com.mx/mg/gm/3pp/asr/ac05a979-198d-41a2-bbe9-c6d2db7fdc7c.e713e29d14d6cffc2cdd81a625b70233.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff))
+
+
 ### Compatibilidade
 
 Adaptadores USB WiFi baseados no chipset **MT7612U** são suportados no kernel desde o kernel Linux v4.19 (2018).
