@@ -1,13 +1,11 @@
 # CF-WU785AC
 COMFAST CF-WU785AC USB Wireless Adapter Kali Linux Compatibilty
 
+Device Information
+  Vendor: MediaTek Inc. (0e8d)
+  Model:  MT7612U 802.11a/b/g/n/acID 
+  ProductID: 7612
 
 
-```
-MediaTek Inc. MT7612U 802.11a/b/g/n/ac
-Bus 004 Device 002: ID 0e8d:7612 MediaTek Inc. MT7612U 802.11a/b/g/n/ac Wireless Adapter
-
-Tx-Power=20 dBm 
-Ensure usb-modeswitch is installed
-sudo apt install usb-modeswitch usb-modeswitch-data
-```
+- VMware Workstation
+Go to Virtual Machine Settings > USB Controller > USB Compatibilty > USB 3.1
