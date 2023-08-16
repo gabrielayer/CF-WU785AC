@@ -34,7 +34,8 @@ Vários recursos adicionais, incluindo WPA3, também são suportados.
 Driver Package: kmod-mt76x2u [Package Data](https://openwrt.org/packages/pkgdata/kmod-mt76x2u)
 
 ```
-Nota: Se o seu roteador tiver uma porta USB e for compatível com OpenWRT, você poderá usar adaptadores baseados no mt7612u para adicionar outra rede de 2,4 GHz ou 5 GHz. Isso funciona bem.
+Nota: Se o seu roteador tiver uma porta USB e for compatível com OpenWRT, 
+      você poderá usar adaptadores baseados no mt7612u para adicionar outra rede de 2,4 GHz ou 5 GHz.
 ```
 
 -----
